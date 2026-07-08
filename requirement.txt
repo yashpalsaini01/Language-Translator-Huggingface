@@ -6,6 +6,8 @@ langchain-core
 langchain-huggingface
 transformers
 huggingface-hub
+langchain-community
+
 
 # Environment Variable Management
 python-dotenv
@@ -13,3 +15,4 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+streamlit
